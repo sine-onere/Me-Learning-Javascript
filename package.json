@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "name": "me-learning-javascript",
+  "version": "1.0.0",
+  "description": "A repository to track my lessons and tinkering in specifically Javascript over time",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sine-onere/Me-Learning-Javascript.git"
+  },
+  "keywords": [
+    "Learning"
+  ],
+  "author": "Sine-onere",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sine-onere/Me-Learning-Javascript/issues",
+    "email": "jessemuniz@sine-onere.com"
+  },
+  "email": "jessemuniz@sine-onere.com",
+  "url": "http://sine-onere.com/",
+  "license": "AGPL-3.0-or-later",
+  "homepage": "https://github.com/sine-onere/Me-Learning-Javascript#readme"
+}

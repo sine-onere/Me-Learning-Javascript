@@ -1,0 +1,1 @@
+var nameEntered = prompt( "Please enter your name:" );
